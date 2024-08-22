@@ -1,0 +1,1 @@
+c:\Users\hasar\Documents\VSCode\Rust\ Projects\triangle_from_scratch\target\debug\triangle_from_scratch.exe: c:\Users\hasar\Documents\VSCode\Rust\ Projects\triangle_from_scratch\src\lib.rs c:\Users\hasar\Documents\VSCode\Rust\ Projects\triangle_from_scratch\src\main.rs c:\Users\hasar\Documents\VSCode\Rust\ Projects\triangle_from_scratch\src\win32.rs
